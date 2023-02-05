@@ -1,0 +1,15 @@
+@media only screen and (max-width: 410px) {
+    section {
+        width: 280px;
+        height: 500px;
+    }
+    .result #res {
+        font-size: 60px;
+    }
+    .buttons input {
+        font-size: 20px;
+    }
+    .buttons .moves {
+        font-size: 30px;
+    }
+}   
